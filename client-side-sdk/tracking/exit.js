@@ -4,7 +4,6 @@
  */
 
 import { sendEvent } from './pageview.js';
-import { sendToSpecializedEndpoint } from '../api/sender.js';
 import { flushBatch } from '../api/sender.js';
 import { Storage } from '../utils/storage.js';
 import { Config } from '../core/config.js';
