@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+*.md
+*.db
+*.db.wal

@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+duckdb
+pydantic
+python-dotenv
+websockets
+passlib[bcrypt]
+python-jose[cryptography]
+bcrypt>=4.0.0
+requests
+openai
+qdrant-client
+llama-index
+llama-index-embeddings-openai

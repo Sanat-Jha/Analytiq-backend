@@ -1,0 +1,165 @@
+{
+  "website_name": "Example Store",
+  "url": "https://example.com",
+  "report_generated_at": "2025-09-17T12:30:00Z",
+  "date_range": "2025-09-10 to 2025-09-17",
+  "total_visitors": 48239,
+  "unique_visitors": 41210,
+  "total_pageviews": 162845,
+  "total_pages": 42,
+  "avg_time_spent_on_site_sec": 186,
+  "avg_loading_time_ms": 1720,
+  "bounce_rate_percent": 38.4,
+  "conversion_rate_percent": 3.7,
+  "new_vs_returning": {
+    "new_percent": 72.5,
+    "returning_percent": 27.5
+  },
+  "traffic_sources": [
+    { "source": "organic", "visitors": 21893, "percent": 45.4 },
+    { "source": "direct", "visitors": 10210, "percent": 21.2 },
+    { "source": "referral", "visitors": 7562, "percent": 15.7 },
+    { "source": "social", "visitors": 6574, "percent": 13.6 },
+    { "source": "paid", "visitors": 2000, "percent": 4.1 }
+  ],
+  "utm_campaigns": [
+    { "campaign": "fall_launch", "clicks": 3210, "conversions": 410 },
+    { "campaign": "newsletter_promo", "clicks": 850, "conversions": 95 }
+  ],
+  "devices": [
+    { "type": "desktop", "percent": 61.3, "avg_screen_res": "1920x1080" },
+    { "type": "mobile", "percent": 34.2, "avg_screen_res": "375x812" },
+    { "type": "tablet", "percent": 4.5, "avg_screen_res": "768x1024" }
+  ],
+  "operating_systems": [
+    { "name": "Windows", "percent": 52.4 },
+    { "name": "macOS", "percent": 22.8 },
+    { "name": "Linux", "percent": 8.3 },
+    { "name": "Android", "percent": 12.5 },
+    { "name": "iOS", "percent": 4.0 }
+  ],
+  "browsers": [
+    { "name": "Chrome", "percent": 64.2 },
+    { "name": "Safari", "percent": 19.7 },
+    { "name": "Firefox", "percent": 7.8 },
+    { "name": "Edge", "percent": 6.3 },
+    { "name": "Other", "percent": 2.0 }
+  ],
+  "pages": [
+    {
+      "page_title": "Homepage",
+      "path": "/",
+      "avg_time_spent_sec": 142,
+      "avg_load_time_ms": 950,
+      "views": 51230,
+      "unique_visitors": 44120,
+      "bounce_rate_percent": 42.1,
+      "exit_rate_percent": 35.0,
+      "avg_scroll_depth_percent": 74.3,
+      "avg_clicks_per_visit": 3.2,
+      "links_clicked_most": [
+        { "href": "/products", "clicks": 8200 },
+        { "href": "/about", "clicks": 3200 }
+      ],
+      "top_referrers": [
+        { "referrer": "google.com", "views": 19200 },
+        { "referrer": "facebook.com", "views": 4000 }
+      ]
+    },
+    {
+      "page_title": "Widget 123",
+      "path": "/products/widget-123",
+      "avg_time_spent_sec": 198,
+      "avg_load_time_ms": 1400,
+      "views": 23810,
+      "unique_visitors": 19420,
+      "bounce_rate_percent": 33.2,
+      "exit_rate_percent": 29.4,
+      "avg_scroll_depth_percent": 86.9,
+      "avg_clicks_per_visit": 4.5,
+      "links_clicked_most": [
+        { "href": "/cart", "clicks": 5200 },
+        { "href": "/reviews/widget-123", "clicks": 3300 }
+      ],
+      "top_referrers": [
+        { "referrer": "google.com", "views": 8100 },
+        { "referrer": "example.com/home", "views": 5200 }
+      ]
+    }
+  ],
+  "geo_distribution": [
+    { "country": "India", "percent": 42.5 },
+    { "country": "United States", "percent": 28.1 },
+    { "country": "United Kingdom", "percent": 10.3 },
+    { "country": "Germany", "percent": 7.8 },
+    { "country": "Other", "percent": 11.3 }
+  ],
+  "last_24h_visitors_geo": [
+    { "lat": 29.866, "long": 77.891 },
+    { "lat": 37.7749, "long": -122.4194 },
+    { "lat": 51.5074, "long": -0.1278 },
+    { "lat": 48.8566, "long": 2.3522 }
+  ],
+  "engagement_summary": {
+    "avg_scroll_depth_percent": 79.2,
+    "avg_clicks_per_session": 5.8,
+    "avg_idle_time_sec": 12.4,
+    "avg_form_interactions": 0.45,
+    "avg_video_watch_time_sec": 32.8
+  },
+  "performance_metrics": {
+    "first_contentful_paint_avg_ms": 880,
+    "largest_contentful_paint_avg_ms": 1650,
+    "cumulative_layout_shift_avg": 0.06,
+    "first_input_delay_avg_ms": 31,
+    "server_response_time_avg_ms": 420,
+    "cdn_cache_hit_ratio_percent": 87.2
+  },
+  "conversion_funnel": {
+    "landing_page_visits": 51230,
+    "product_page_views": 23810,
+    "add_to_cart": 7540,
+    "checkout_started": 4890,
+    "purchases": 1790,
+    "cart_abandonment_rate_percent": 35.2
+  },
+  "search_terms": [
+    { "term": "widget 123", "count": 4200 },
+    { "term": "example store coupons", "count": 1800 }
+  ],
+  "events_summary": [
+    { "event": "rating_submitted", "count": 980 },
+    { "event": "newsletter_signup", "count": 1450 },
+    { "event": "recommendation_click", "count": 3220 }
+  ],
+  "technology": {
+    "avg_downlink_mbps": 38.5,
+    "avg_rtt_ms": 42,
+    "common_screen_resolutions": [
+      { "resolution": "1920x1080", "percent": 48.2 },
+      { "resolution": "1366x768", "percent": 22.5 },
+      { "resolution": "375x812", "percent": 16.4 }
+    ]
+  },
+  "user_behavior": {
+    "avg_sessions_per_user": 1.4,
+    "avg_pages_per_session": 3.8,
+    "avg_session_duration_sec": 186,
+    "peak_visit_hour": "20:00-21:00",
+    "days_with_highest_traffic": ["Monday", "Wednesday"]
+  },
+  "custom_segments": [
+    {
+      "segment_name": "High Spenders",
+      "criteria": "Purchases > $500",
+      "visitors": 320,
+      "avg_order_value": 650
+    },
+    {
+      "segment_name": "Cart Abandoners",
+      "criteria": "Added to cart but no purchase",
+      "visitors": 2740,
+      "recovered_percent": 18.4
+    }
+  ]
+}
