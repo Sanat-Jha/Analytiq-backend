@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Analytiq</h1>
+<a href="https://analytiq-website.netlify.app"> Open Live demo</a>
 
 <p align="center">
   <strong>Simple, Powerful Web Analytics for Everyone</strong>
