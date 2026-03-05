@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Analytiq-frontend/src/assets/NavLogo.png" alt="Analytiq Logo" width="200"/>
+  <img src="https://github.com/Nightwing007/Analytiq/blob/main/Analytiq-frontend/src/assets/NavLogo.png?raw=true" alt="Analytiq Logo" width="200"/>
 </p>
 
 <h1 align="center">Analytiq</h1>
